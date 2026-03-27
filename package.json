@@ -1,0 +1,1 @@
+{\n  "name": "CODEQUEST",\n  "private": true,\n  "workspaces": [\n    "apps/*",\n    "packages/*"\n  ],\n  "scripts": {\n    "dev": "lerna run dev --parallel",\n    "build": "lerna run build",\n    "test": "lerna run test"\n  }\n}
